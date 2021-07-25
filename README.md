@@ -10,4 +10,4 @@ Zentawallet will be included in our Zentalk App and later also as a stand alone 
 
 [Zentawallet](https://github.com/ZentaChain/Zentalk-Mobile-Android)
 
-This project is under active development, there may be breaking changes.
+NOT:This project is under active development, there may be breaking changes.
